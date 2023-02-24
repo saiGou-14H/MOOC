@@ -57,3 +57,16 @@
 ![image-20230225003516372](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/%E5%89%8D%E7%AB%AF/4.png)
 
 ![image-20230225003523575](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/%E5%89%8D%E7%AB%AF/5.png)
+
+## 项目技术栈
+
+**前端技术栈**
+
+| 技术               | 官网                                                         |
+| ------------------ | ------------------------------------------------------------ |
+| Vue                | [Vue.js](https://vuejs.org/)                                 |
+| ElementUI          | [Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN) |
+| axios              | [Axios](https://github.com/axios/axios )                     |
+| vue-router         | [路由框架](https://router.vuejs.org/)                        |
+| vue-admin-template | [PanJiaChen/vue-element-admin: A magical vue admin https://panjiachen.github.io/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) |
+
