@@ -84,28 +84,28 @@
 
 **Android技术栈**
 
-| 技术              | 说明         | 链接                                                         |
-| ----------------- | ------------ | ------------------------------------------------------------ |
-| picasso（毕加索） | 图片处理框架 | [square/picasso: A powerful image downloading and caching library for Android (github.com)](https://github.com/square/picasso) |
-|                   |              |                                                              |
-|                   |              |                                                              |
-|                   |              |                                                              |
-
 ```
-//加载图片
-implementation 'com.squareup.picasso:picasso:2.5.2'
-//分页控件
+//GSON库
+implementation 'com.google.code.gson:gson:2.8.5'
+
+//网络请求框架
+implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+
+//智能刷新框架
 implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.3'
-//加载图片
+
+//picasso（毕加索）图片处理框架
 implementation 'com.squareup.picasso:picasso:2.5.2'
-//列表选择器
+
+//列表选择控件
 implementation 'com.contrarywind:Android-PickerView:4.1.9'
-//数据级联选择器
+
+//数据级联选择控件
 implementation 'com.github.gamekonglee:regionSelector:2.0'
-//富文本
+
+//富文本编辑器
 implementation 'jp.wasabeef:richeditor-android:1.2.0'
 implementation 'com.zzhoujay.richtext:richtext:3.0.7' 
-//RichText资源库
 implementation 'com.github.widemouth-dz:wmrichtexteditor:2.0.4'
 ```
 
