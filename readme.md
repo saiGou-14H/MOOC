@@ -104,7 +104,7 @@ implementation 'com.contrarywind:Android-PickerView:4.1.9'
 implementation 'com.github.gamekonglee:regionSelector:2.0'
 //富文本
 implementation 'jp.wasabeef:richeditor-android:1.2.0'
-    implementation 'com.zzhoujay.richtext:richtext:3.0.7'  
+implementation 'com.zzhoujay.richtext:richtext:3.0.7' 
 //RichText资源库
 implementation 'com.github.widemouth-dz:wmrichtexteditor:2.0.4'
 ```
