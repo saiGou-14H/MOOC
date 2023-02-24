@@ -82,7 +82,7 @@
 | Lombok       | Java语言增强库  | https://github.com/rzwitserloot/lombok    |
 | Swagger-UI   | API文档生成工具 | https://github.com/swagger-api/swagger-ui |
 
-**Android技术栈**
+**Android依赖**
 
 ```
 //GSON库
