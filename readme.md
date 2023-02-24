@@ -26,7 +26,7 @@
 
 ​		通过对学生端系统的总体需求分析，可将本系统具有浏览课程，购买课程，查看课程及学习课程，报名实践，打卡签到，查看积分流水等功能，功能简述如下图所示。
 
-![image-20230225003240063](C:\Users\pan\AppData\Roaming\Typora\typora-user-images\image-20230225003240063.png)
+![image-20230225003240063](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/App/%E7%B3%BB%E7%BB%9F.png)
 
 ### WEB端
 
