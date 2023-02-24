@@ -30,11 +30,15 @@
 
 ### WEB端
 
+**教师端/管理端**
+
+![系统](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/%E5%89%8D%E7%AB%AF/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
 1.班级模块：教师登录系统后，可对班级进行添加，删除，修改，查看班级信息和学生信息。教师可查询任意班级的学生总体学习进度及没门课程的学习进度。学习进度通过后端获取的总课程学习时长与已经学习的时长相比可得。
 
 ![image-20230225003324610](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/%E5%89%8D%E7%AB%AF/1.png)
 
-点击放大镜按钮，可查看没门课程的学习进度
+点击放大镜按钮，可查看每门课程的学习进度
 
 ![image-20230225003349106](https://github.com/saiGou-14H/save-image/blob/main/%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E7%B3%BB%E7%BB%9F/%E5%89%8D%E7%AB%AF/2.png)
 
