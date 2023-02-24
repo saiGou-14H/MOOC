@@ -62,11 +62,50 @@
 
 **前端技术栈**
 
-| 技术               | 官网                                                         |
-| ------------------ | ------------------------------------------------------------ |
-| Vue                | [Vue.js](https://vuejs.org/)                                 |
-| ElementUI          | [Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN) |
-| axios              | [Axios](https://github.com/axios/axios )                     |
-| vue-router         | [路由框架](https://router.vuejs.org/)                        |
-| vue-admin-template | [PanJiaChen/vue-element-admin: A magical vue admin https://panjiachen.github.io/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) |
+| 技术               | 说明             | 链接                                                         |
+| ------------------ | ---------------- | ------------------------------------------------------------ |
+| Vue                | 前端框架         | [Vue.js](https://vuejs.org/)                                 |
+| ElementUI          | 前端UI框架       | [Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN) |
+| axios              | 前端HTTP框架     | [Axios](https://github.com/axios/axios )                     |
+| vue-router         | 路由框架         | [router](https://router.vuejs.org/)                          |
+| vue-admin-template | 后台管理基础模板 | [PanJiaChen/vue-element-admin: A magical vue admin https://panjiachen.github.io/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) |
+
+**后端技术栈**
+
+| 技术         | 说明            | 链接                                      |
+| ------------ | --------------- | ----------------------------------------- |
+| SpringBoot   | Web应用开发框架 | https://spring.io/projects/spring-boot    |
+| SpringCloud  | 微服务框架      | https://spring.io/projects/spring-cloud   |
+| MyBatis-Plus | ORM框架         | https://baomidou.com/                     |
+| Redis        | 内存数据存储    | https://redis.io/                         |
+| JWT          | JWT登录支持     | https://github.com/jwtk/jjwt              |
+| Lombok       | Java语言增强库  | https://github.com/rzwitserloot/lombok    |
+| Swagger-UI   | API文档生成工具 | https://github.com/swagger-api/swagger-ui |
+
+**Android技术栈**
+
+| 技术              | 说明         | 链接                                                         |
+| ----------------- | ------------ | ------------------------------------------------------------ |
+| picasso（毕加索） | 图片处理框架 | [square/picasso: A powerful image downloading and caching library for Android (github.com)](https://github.com/square/picasso) |
+|                   |              |                                                              |
+|                   |              |                                                              |
+|                   |              |                                                              |
+
+```
+//加载图片
+implementation 'com.squareup.picasso:picasso:2.5.2'
+//分页控件
+implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.3'
+//加载图片
+implementation 'com.squareup.picasso:picasso:2.5.2'
+//列表选择器
+implementation 'com.contrarywind:Android-PickerView:4.1.9'
+//数据级联选择器
+implementation 'com.github.gamekonglee:regionSelector:2.0'
+//富文本
+implementation 'jp.wasabeef:richeditor-android:1.2.0'
+    implementation 'com.zzhoujay.richtext:richtext:3.0.7'  
+//RichText资源库
+implementation 'com.github.widemouth-dz:wmrichtexteditor:2.0.4'
+```
 
