@@ -4,3 +4,6 @@
 [submodule "MOOC-SpringCloud"]
 	path = MOOC-SpringCloud
 	url = git@github.com:saiGou-14H/MOOC-SpringCloud.git
+[submodule "MOOC-Android"]
+	path = MOOC-Android
+	url = git@github.com:saiGou-14H/MOOC-Android.git
